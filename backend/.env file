@@ -1,0 +1,2 @@
+MONGO_URI=mongodb+srv://sakshi:12345@cluster0.mongodb.net/schoolDB
+JWT_SECRET=secret123
